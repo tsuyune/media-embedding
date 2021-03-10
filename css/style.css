@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: no-wrap;
+    margin: 2% 10%;
+    gap: 40px;
+}
+
+h1 {
+    font-family: 'Sansita', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    margin: 2% 0;
+}
+
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    margin: 2% 0;
+}
