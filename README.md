@@ -1,1 +1,1 @@
-[GitHub Pages](https://toshiteshigure.github.io/media-embedding/)
+[GitHub Pages](https://tsuyune.github.io/media-embedding/)
